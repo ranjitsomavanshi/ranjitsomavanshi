@@ -1,3 +1,4 @@
+![logo](https://github.com/ranjitsomavanshi/ranjitsomavanshi/blob/main/Ranjeet%20GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ranjeet Somavanshi</h1>
 <h3 align="center">Experienced Full Stack Software Engineer | Proficient in Angular, React, Node.js | Skilled in JavaScript, Java, HTML, CSS | Strong background in Software Development & Problem Solving</h3>
 <br/>

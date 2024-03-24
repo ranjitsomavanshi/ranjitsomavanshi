@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranjeet Somavanshi</h1>
 <h3 align="center">Experienced Full Stack Software Engineer | Proficient in Angular, React, Node.js | Skilled in JavaScript, Java, HTML, CSS | Strong background in Software Development & Problem Solving</h3>
+<img align="right" alt="coding" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/c/a/2/8/ca285711aaa1c10916177ebd8ebe88c709102b94.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjitsomavanshi&label=Profile%20views&color=0e75b6&style=flat" alt="ranjitsomavanshi" /> </p>
 
 <h3 align="left">Connect with me:</h3>

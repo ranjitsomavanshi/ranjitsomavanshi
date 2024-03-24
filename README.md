@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranjeet Somavanshi</h1>
 <h3 align="center">Experienced Full Stack Software Engineer | Proficient in Angular, React, Node.js | Skilled in JavaScript, Java, HTML, CSS | Strong background in Software Development & Problem Solving</h3>
-<img align="right" alt="coding" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/c/a/2/8/ca285711aaa1c10916177ebd8ebe88c709102b94.gif">
+<img align="right" alt="coding" width="500" height="150" border-radius="20" src="https://camo.githubusercontent.com/b9d2cf6f810f95b5fb495edca02c307d492c32f71a62ab6c801e416fa5492338/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjitsomavanshi&label=Profile%20views&color=0e75b6&style=flat" alt="ranjitsomavanshi" /> </p>
 
 <h3 align="left">Connect with me:</h3>

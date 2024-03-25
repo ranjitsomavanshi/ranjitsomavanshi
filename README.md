@@ -1,5 +1,6 @@
-![logo](https://github.com/ranjitsomavanshi/ranjitsomavanshi/blob/main/Ranjeet%20GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ranjeet Somavanshi</h1>
+
+![logo](https://github.com/ranjitsomavanshi/ranjitsomavanshi/blob/main/Ranjeet%20GitHub%20Banner.png)
 <h3 align="center">Experienced Full Stack Software Engineer | Proficient in Angular, React, Node.js | Skilled in JavaScript, Java, HTML, CSS | Strong background in Software Development & Problem Solving</h3>
 <br/>
 <img align="right" alt="coding" width="500" height="150" style="border-radius: 50px;" src="https://camo.githubusercontent.com/b9d2cf6f810f95b5fb495edca02c307d492c32f71a62ab6c801e416fa5492338/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966"/>
@@ -7,10 +8,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ranjeetsomavan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranjeetsomavan2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ranjeetsomavanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjeetsomavanshi" height="30" width="40" /></a>
-<a href="https://instagram.com/ranjeet_somavanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranjeet_somavanshi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ranjitsomavanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ranjitsomavanshi" height="30" width="40" /></a>
+<a href="https://twitter.com/ranjeetsomavan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranjeetsomavan2" height="30" width="40" /></a>
+<a href="https://instagram.com/ranjeet_somavanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranjeet_somavanshi" height="30" width="40" /></a>
 </p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>

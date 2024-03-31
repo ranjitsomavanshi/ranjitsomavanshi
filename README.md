@@ -32,5 +32,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ranjitsomavanshi&show_icons=true&locale=en" alt="GitHub Stats">
 
 </div>
-
-## My Work
